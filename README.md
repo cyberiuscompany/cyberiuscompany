@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberiuscompany&theme=dark&hide_border=false&layout=compact" height="150" />
 </div>
 
-### 🐍 Actividad reciente (Snake Animation)
+### 🐍 Actividad reciente
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake-dark.svg" />
