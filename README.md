@@ -20,7 +20,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ## 🛡️ Sobre mí
-- 🔍 Trabajando como Ingenerio en Ciebrseguridad y desarrollando herramientas de ciberseguridad para proteger entornos digitales 
+- 🔍 Trabajando como Ingenerio en Ciebrseguridad y desarrollando herramientas de ciberseguridad
 - 📚 En constante formación en Hacking Ético, Red Team y Análisis Forense 
 - 🎓 Investigador en Informática, Ciberseguridad y Sistemas  
  
