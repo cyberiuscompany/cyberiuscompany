@@ -22,7 +22,7 @@
 ## 🛡️ Sobre mí
 - 🔍 Actualmente desarrollando herramientas de ciberseguridad para proteger entornos digitales 
 - 📚 En constante formación en Hacking Ético, Red Team y Análisis Forense 
-- 🎓 Investador en Informática, Ciberseguridad y Sistemas  
+- 🎓 Investigador en Informática, Ciberseguridad y Sistemas  
  
 ## 🎓 Certificaciones Oficiales
 
