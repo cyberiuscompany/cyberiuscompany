@@ -1,19 +1,18 @@
 # 👋 ¡Hola! Soy Cyberius desde España
 
 ## 🛡️ Sobre mí
-🔍 Actualmente desarrollando herramientas de ciberseguridad para proteger entornos digitales  
+🔍 Actualmente desarrollando herramientas de ciberseguridad para proteger entornos digitales 
+📚 En constante formación en Hacking Ético, Red Team y Análisis Forense 
 🎓 Investador en Informática, Ciberseguridad y Sistemas  
-📚 En constante formación en Hacking Ético, Red Team y Análisis Forense  
-
+ 
 ## 🎓 Certificaciones Oficiales
-  
+
+- 🔐 [Ethical Hacking Professional Certification - CEHPC™ – CertiProf](https://www.credly.com/badges/59169a48-0ab6-4969-9e03-2cff4e9ff618/public_url)  
 - 🔐 [Splunk Core Certified User – Splunk](https://www.credly.com/badges/f85ad915-8974-468b-8989-a3d6c9f034a3/public_url)
-- 🔐 [Ethical Hacking Professional Certification - CEHPC™ – CertiProf](https://www.credly.com/badges/59169a48-0ab6-4969-9e03-2cff4e9ff618/public_url)
 
 ## 🎓 Certificaciones No Oficiales
 
 - 🧠 [Mi Perfil Udemy - Cursos Realizados](https://www.udemy.com/user/marlon-cabrera-8/)
-
 
 ## 📊 Estadísticas en GitHub
 <div style="display: flex; align-items: center; justify-content: center;">
