@@ -19,6 +19,11 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
+## Visitas al Perfil
+<div align="left">
+  <img src="https://profile-counter.glitch.me/cyberiuscompany/count.svg?" />
+</div>
+
 ## 🛡️ Sobre mí
 - 🔍 Trabajando como Ingenerio en Ciebrseguridad y desarrollando herramientas de ciberseguridad
 - 📚 En constante formación en Hacking Ético, Red Team y Análisis Forense 
