@@ -1,8 +1,9 @@
-# 👋 ¡Hola! Soy Cyberius, especialista en Ciberseguridad desde España
+# 👋 ¡Hola! Soy Cyberius desde España
+# 👋 Especialista en Ciberseguridad
 
 ## 🛡️ Sobre mí
 🔍 Actualmente desarrollando herramientas de ciberseguridad para proteger entornos digitales  
-🎓 Estudiante en Informática, Ciberseguridad y Sistemas  
+🎓 Investador en Informática, Ciberseguridad y Sistemas  
 📚 En constante formación en Hacking Ético, Red Team y Análisis Forense  
 
 ## 📊 Estadísticas en GitHub
