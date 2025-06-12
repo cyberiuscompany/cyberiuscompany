@@ -37,6 +37,7 @@
 ## 🎓 Certificaciones No Oficiales
 
 - 🧠 [Udemy - Cursos Realizados](https://drive.google.com/drive/folders/1NVHxJk-HZHwo0CZSSqF-fqKAt5PVaCja?usp=sharing)
+- 🧠 [MasterMind - Cursos Realizados](https://drive.google.com/drive/folders/1VFhssuT_Tjf3bpPB_D49H4tqAlMhU-Uc?usp=sharing)
 
 ## 📊 Estadísticas en GitHub
 <div style="display: flex; align-items: center; justify-content: center;">
