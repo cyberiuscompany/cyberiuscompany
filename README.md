@@ -25,7 +25,7 @@
 </div>
 
 ## 🛡️ Sobre mí
-- 🔍 Trabajando como Ingenerio en Ciebrseguridad y desarrollando herramientas de ciberseguridad
+- 🔍 Trabajando como Ingenerio en Ciebrseguridad y desarrollando herramientas de Ciberseguridad
 - 📚 En constante formación en Hacking Ético, Red Team y Análisis Forense 
 - 🎓 Investigador en Informática, Ciberseguridad y Sistemas  
  
