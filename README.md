@@ -1,5 +1,9 @@
 # 👋 ¡Hola! Soy Cyberius desde España
 
+<p align="center">
+  <img src=".github/bannergithub.jpg" alt="Banner de Cyberius Company" />
+</p>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyberiusCompany)
 [![Discord](https://img.shields.io/badge/Servidor%20de%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://disboard.org/server/1299310806617292922)
 [![PayPal](https://img.shields.io/badge/Donar-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=UNCDDANV9C7GN)
