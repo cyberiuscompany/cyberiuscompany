@@ -26,7 +26,8 @@
 
 ## 📡 YouTube
 
-[![YouTube Subscribers](https://img.shields.io/youtube/subscribers/UCgVt5TtRTQwfa2D5SnF0FqQ?style=social)](https://www.youtube.com/@CyberiusCompany)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CyberiusCompany)
+
 
 ## 🛡️ Sobre mí
 - 🔍 Trabajando como Ingenerio en Ciebrseguridad y desarrollando herramientas de Ciberseguridad
