@@ -43,7 +43,7 @@
     
 ## 🎓 Github Pages
 
-- 🛒 Cyberius Shop -> https://cyberiuscompany.github.io/cyberiusshop/index.html
+- 🛒 Cyberius Shop -> https://cyberiuscompany.github.io/cyberiusshop/
   
 ## 📊 Estadísticas en GitHub
 <div style="display: flex; align-items: center; justify-content: center;">
