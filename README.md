@@ -24,6 +24,10 @@
   <img src="https://profile-counter.glitch.me/cyberiuscompany/count.svg?" />
 </div>
 
+## 📡 YouTube
+
+[![YouTube Subscribers](https://img.shields.io/youtube/subscribers/UCgVt5TtRTQwfa2D5SnF0FqQ?style=social)](https://www.youtube.com/@CyberiusCompany)
+
 ## 🛡️ Sobre mí
 - 🔍 Trabajando como Ingenerio en Ciebrseguridad y desarrollando herramientas de Ciberseguridad
 - 📚 En constante formación en Red Team, Purple Team y Blue Team 
