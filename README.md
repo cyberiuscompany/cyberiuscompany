@@ -16,24 +16,10 @@
 
 
 ## 🛡️ Sobre mí
- <table>
-   <tr>
-     <td>
-      </br>
-      <img src="https://media1.tenor.com/m/mf9EmKfr3o8AAAAd/plink-nerd.gif" width="300" height="200"/>
-       </br>    
-     </td>
-     <td>
-     <h2>About me:</h2> 
-       
-- 🔍 Trabajando como Ingenerio en Ciberseguridad y desarrollando herramientas de Ciberseguridad**.
-- 📚 En constante formación en Red Team, Purple Team y Blue Team**
-- 🎓 Investigador en Informática, Ciberseguridad y Sistemas**.
 
-     </td>
-   </tr>
- </table>
- </br></br> 
+- 🔍 Trabajando como Ingenerio en Ciberseguridad y desarrollando herramientas de Ciberseguridad.
+- 📚 En constante formación en Red Team, Purple Team y Blue Team.
+- 🎓 Investigador en Informática, Ciberseguridad y Sistemas.
  
 ## 🎓 Certificaciones Oficiales
 
