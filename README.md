@@ -20,7 +20,7 @@
    <tr>
      <td>
       </br>
-      <img src="https://media1.tenor.com/m/mf9EmKfr3o8AAAAd/plink-nerd.gif" width="300" height="200"/>
+      <img src="https://media1.tenor.com/m/mf9EmKfr3o8AAAAd/plink-nerd.gif" width="300" height="150"/>
        </br>    
      </td>
      <td>
