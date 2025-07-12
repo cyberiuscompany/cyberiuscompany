@@ -25,9 +25,11 @@
      </td>
      <td>
      <h2>About me:</h2> 
+       
 - 🔍 Trabajando como Ingenerio en Ciberseguridad y desarrollando herramientas de Ciberseguridad**.
 - 📚 En constante formación en Red Team, Purple Team y Blue Team**
 - 🎓 Investigador en Informática, Ciberseguridad y Sistemas**.
+
      </td>
    </tr>
  </table>
