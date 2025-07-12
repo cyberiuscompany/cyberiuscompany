@@ -1,10 +1,5 @@
 # 👋 ¡Hola! Soy Cyberius desde España
 
-## Visitas al Perfil
-<div align="left">
-  <img src="https://profile-counter.glitch.me/cyberiuscompany/count.svg?" />
-</div>
-
 ## 📡 YouTube
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CyberiusCompany)
