@@ -1,14 +1,15 @@
 # 👋 Hi there! I'm Cyberius from Spain
 
 <p align="center">
-  <img src="https://flagcdn.com/w40/es.png" alt="Spanish" title="Spanish">
-  <strong>Español</strong>
+  <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
+  <strong>English</strong>
   &nbsp;|&nbsp;
   <a href="README.md">
-    <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
-    <strong>English</strong>
+    <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
+    <strong>Español</strong>
   </a>
 </p>
+
 
 ## 📡 YouTube
 
