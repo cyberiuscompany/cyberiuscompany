@@ -1,4 +1,6 @@
 # Table of contents
 
-* [👋 ¡Hola! Soy Cyberius desde España](README.md)
-* [👋 Hi there! I'm Cyberius from Spain](README.en.md)
+## Principal
+
+* [👋 Hi there! I'm Cyberius from Spain](README.md)
+* [👋 ¡Hola! Soy Cyberius desde España](principal/readme.md)
