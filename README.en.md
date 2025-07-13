@@ -1,6 +1,14 @@
 # 👋 Hi! I'm Cyberius from Spain
 
-<p align="center"><img src="https://flagcdn.com/w40/es.png" alt="Spanish"> <strong>Spanish</strong>  |  <a href="broken-reference"><img src="https://flagcdn.com/w40/us.png" alt="English"> <strong>English</strong></a></p>
+<p align="center">
+  <a href="https://github.com/cyberiuscompany/cyberiuscompany">
+    <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
+    <strong>Español</strong>
+  </a>
+  &nbsp;|&nbsp;
+  <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
+  <strong>English</strong>
+</p>
 
 ## 📡 YouTube
 
