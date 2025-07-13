@@ -2,5 +2,5 @@
 
 ## Principal
 
-* [👋 Hi there! I'm Cyberius from Spain](README.md)
-* [👋 ¡Hola! Soy Cyberius desde España](principal/readme.md)
+* [👋 ¡Hola! Soy Cyberius desde España](README.md)
+* [👋 Hi there! I'm Cyberius from Spain](<README (1).md>)
