@@ -8,7 +8,6 @@
     <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
     <strong>English</strong>
   </a>
-  &nbsp;|&nbsp;
 </p>
 
 
