@@ -1,6 +1,16 @@
 # 👋 ¡Hola! Soy Cyberius desde España
 
-<p align="center"><img src="https://flagcdn.com/w40/es.png" alt="Español"> <strong>Español</strong>  |  <a href="broken-reference"><img src="https://flagcdn.com/w40/us.png" alt="English"> <strong>English</strong></a></p>
+<p align="center">
+  <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
+  <strong>Español</strong>
+  &nbsp;|&nbsp;
+  <a href="README.en.md">
+    <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
+    <strong>English</strong>
+  </a>
+  &nbsp;|&nbsp;
+</p>
+
 
 ## 📡 YouTube
 
