@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Cyberius from Spain
 
 <p align="center">
-  <a href="https://github.com/cyberiuscompany/cyberiuscompany">
+  <a href="https://github.com/cyberiuscompany">
     <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
     <strong>Español</strong>
   </a>
