@@ -40,14 +40,12 @@
 
 * 🛒 Cyberius Shop -> https://cyberiuscompany.github.io/cyberiusshop/
 
-## 📊 Estadísticas en GitHub
+### 📊 Estadísticas en GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=cyberiuscompany\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberiuscompany\&theme=dark\&hide_border=false\&layout=compact)
+![Metrics](https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/ea86ed3a2868c15954b559d75458cd102e819cdc/metrics.svg)
 
 ### 🐍 Actividad reciente
 
 <picture><source srcset="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake.svg" alt="github-snake"></picture>
 
-### 🐍 Metrics
 
-![Metrics](https://github.com/cyberiuscompany/cyberiuscompany/blob/master/metrics.svg)
