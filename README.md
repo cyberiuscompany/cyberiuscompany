@@ -36,7 +36,7 @@
 * 🧠 [MasterMind - Cursos Realizados](https://drive.google.com/drive/folders/1VFhssuT_Tjf3bpPB_D49H4tqAlMhU-Uc?usp=sharing)
   * 3 Certificaciones
 
-## 🎓 Github Pages
+## 🌐 Github Pages (Tienda de Herramientas de Ciberseguridad)
 
 * 🛒 Cyberius Shop -> https://cyberiuscompany.github.io/cyberiusshop/
 
@@ -48,7 +48,6 @@
 
 <picture><source srcset="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake.svg" alt="github-snake"></picture>
 
-![Stargazers Worldmap](https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/a5d25a17a54f241534545dd00dfadac84a318493/metrics.plugin.stargazers.worldmap.svg)
 
 
 
