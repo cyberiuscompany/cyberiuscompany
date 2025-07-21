@@ -47,3 +47,7 @@
 ### 🐍 Actividad reciente
 
 <picture><source srcset="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake.svg" alt="github-snake"></picture>
+
+### 🐍 Metrics
+
+![Metrics](https://github.com/cyberiuscompany/cyberiuscompany/blob/master/metrics.svg)
