@@ -36,9 +36,9 @@
 * 🧠 [MasterMind - Cursos Realizados](https://drive.google.com/drive/folders/1VFhssuT_Tjf3bpPB_D49H4tqAlMhU-Uc?usp=sharing)
   * 3 Certificaciones
 
-## 🌐 Github Pages (Tienda de Herramientas de Ciberseguridad)
+## 🌐 Github Pages
 
-* 🛒 Cyberius Shop -> https://cyberiuscompany.github.io/cyberiusshop/
+* https://cyberiuscompany.github.io/cyberiusshop/
 
 ### 📊 Estadísticas en GitHub
 
