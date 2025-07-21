@@ -35,14 +35,15 @@
 * 🧠 [MasterMind - Completed Courses](https://drive.google.com/drive/folders/1VFhssuT_Tjf3bpPB_D49H4tqAlMhU-Uc?usp=sharing)
   * 3 Certifications
 
-## 🎓 Github Pages
+## 🌐 Github Pages
 
-* 🛒 Cyberius Shop -> https://cyberiuscompany.github.io/cyberiusshop/
+* https://cyberiuscompany.github.io/cyberiusshop/
 
-## 📊 GitHub Stats
+### 📊 Statistics on GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=cyberiuscompany\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberiuscompany\&theme=dark\&hide_border=false\&layout=compact)
+![Metrics](https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/ea86ed3a2868c15954b559d75458cd102e819cdc/metrics.svg)
 
-### 🐍 Recent Activity
+### 🐍 Recent activity
 
 <picture><source srcset="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake.svg" alt="github-snake"></picture>
+
