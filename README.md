@@ -48,7 +48,7 @@
 
 <picture><source srcset="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake.svg" alt="github-snake"></picture>
 
-![Stargazers Worldmap](https://github.com/cyberiuscompany/cyberiuscompany/blob/master/metrics.plugin.stargazers.worldmap.svg)
+![Stargazers Worldmap](https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/a5d25a17a54f241534545dd00dfadac84a318493/metrics.plugin.stargazers.worldmap.svg)
 
 
 
