@@ -17,5 +17,3 @@ jobs:
           plugin_achievements: yes
           plugin_lines: yes
           plugin_traffic: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
