@@ -14,7 +14,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge\&logo=youtube)](https://www.youtube.com/@CyberiusCompany)
 
-## 🛡️ About Me
+## 👨🏽‍💻 About Me
 
 * 🔍 Working as a Cybersecurity Engineer and developing cybersecurity tools.
 * 📚 Constantly training in Red Team, Purple Team, and Blue Team.
