@@ -35,7 +35,7 @@
 * 🧠 [MasterMind - Completed Courses](https://drive.google.com/drive/folders/1VFhssuT_Tjf3bpPB_D49H4tqAlMhU-Uc?usp=sharing)
   * 3 Certifications
 
-## 🌐 Github Pages
+## 🌐 Github Page
 
 * https://cyberiuscompany.github.io/cyberiusshop/
 
