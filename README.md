@@ -38,8 +38,8 @@
 
 ## 🌐 Proyectos Webs Activos
 
-* https://cyberiuscompany.github.io/cyberiusshop/
-* http://cyberiusfiles.ddns.net:9090
+* Tienda de Herramientas de Hacking: https://cyberiuscompany.github.io/cyberiusshop/
+* Aplicación Web de subida/descargas de ficheros: http://cyberiusfiles.ddns.net:9090
 
 ### 🐍 Actividad reciente
 
