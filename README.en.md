@@ -37,7 +37,8 @@
 
 ## 🌐 Github Page
 
-* https://cyberiuscompany.github.io/cyberiusshop/
+* Hacking Tools Store: https://cyberiuscompany.github.io/cyberiusshop/
+* File upload/download web application: http://cyberiusfiles.ddns.net:9090
 
 ### 🐍 Recent activity
 
