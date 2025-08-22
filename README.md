@@ -40,7 +40,7 @@
 
 * Tienda de Herramientas de Hacking: https://cyberiuscompany.github.io/cyberiusshop/
 * Aplicación Web de subida/descargas de Ficheros: http://cyberiusfiles.ddns.net:9090
-* Aplicación Web de compartir notas en Raw: http://cyberiusfiles.ddns.net:9191/
+* Aplicación Web de compartir notas en Raw: http://cyberiusbin.ddns.net:9191/
 
 ### 🐍 Actividad reciente
 
