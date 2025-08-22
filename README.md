@@ -36,12 +36,9 @@
 * 🧠 [MasterMind - Cursos Realizados](https://drive.google.com/drive/folders/1VFhssuT_Tjf3bpPB_D49H4tqAlMhU-Uc?usp=sharing)
   * 3 Certificaciones
 
-## 🌐 Github Page
+## 🌐 Proyectos Webs Activos
 
 * https://cyberiuscompany.github.io/cyberiusshop/
-
-## 🌐 Proyectos Activos
-
 * http://cyberiusfiles.ddns.net:9090
 
 ### 🐍 Actividad reciente
