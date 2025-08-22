@@ -42,7 +42,7 @@
 
 ## 🌐 Proyectos Activos
 
-* cyberiusfiles.ddns.net:9090
+* http://cyberiusfiles.ddns.net:9090
 
 ### 🐍 Actividad reciente
 
