@@ -29,7 +29,7 @@
 * 🔐 [Fortinet - NS2 - Evolution of Cybersecurity](https://www.linkedin.com/in/marlon-cabrera)
 * 🔐 [Fortinet - NS3 - Introduction to Fortinet Products](https://www.linkedin.com/in/marlon-cabrera)
 
-## 🎓 Certificaciones No Oficiales
+## 🏅 Certificaciones No Oficiales
 
 * 🧠 [Udemy - Cursos Realizados](https://drive.google.com/drive/folders/1NVHxJk-HZHwo0CZSSqF-fqKAt5PVaCja?usp=sharing)
   * 11 Certificaciones
