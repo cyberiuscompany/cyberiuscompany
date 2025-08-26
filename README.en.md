@@ -41,7 +41,7 @@
 ------------
 * File upload/download web application: http://cyberiusfiles.ddns.net:9090
 * Raw Notes Sharing Web Application: http://cyberiusbin.ddns.net:9191/
-
+* CTF Challenge Web Application to be Accepted by Cyberius: http://cyberiusctf.ddns.net:9393/
 
 ### 🐍 Recent activity
 
