@@ -36,7 +36,7 @@
 * 🧠 [MasterMind - Cursos Realizados](https://drive.google.com/drive/folders/1VFhssuT_Tjf3bpPB_D49H4tqAlMhU-Uc?usp=sharing)
   * 3 Certificaciones
 
-## 🛒 Tiendas de Softwares de Ciberseguridad
+## 🛒 Tienda de Softwares de Ciberseguridad
 
 * Tienda de Herramientas de Hacking: https://cyberiuscompany.github.io/cyberiusshop/
   
