@@ -41,9 +41,9 @@
 * Tienda de Herramientas de Hacking: https://cyberiuscompany.github.io/cyberiusshop/
   
 ----------
-* Aplicación Web de subida/descargas de Ficheros: http://cyberiusfiles.ddns.net:9090
-* Aplicación Web de compartir notas en Raw: http://cyberiusbin.ddns.net:9191/
-* Aplicación Web de reto CTF para ser Aceptado por Cyberius: http://cyberiusctf.duckdns.org:9393/
+* Aplicación Web de subida/descargas de Ficheros: http://ciberiuswebproyects.duckdns.org:9090
+* Aplicación Web de compartir notas en Raw: http://ciberiuswebproyects.duckdns.org:9191/
+* Aplicación Web de reto CTF para ser Aceptado por Cyberius: http://ciberiuswebproyects.duckdns.org:9393/
 
 ### 🐍 Actividad reciente
 
