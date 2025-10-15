@@ -53,10 +53,5 @@
 
 <picture><source srcset="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake.svg" alt="github-snake"></picture>
 
-<!--profile visit count-->
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=D4rkh45h&label=Visitas%20al%20perfil&color=0e75b6&s… alt="Visitas al perfil" />
-</div>
-
 
 
