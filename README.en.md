@@ -19,6 +19,7 @@
 * 🔍 Working as a Cybersecurity Engineer and developing cybersecurity tools.
 * 📚 Constantly training in Red Team, Purple Team, and Blue Team.
 * 🎓 Researcher in Computer Science, Cybersecurity, and Systems.
+* ✏️ In addition to giving Cybersecurity courses [Contacto.](https://cyberiuscompany.github.io/cyberiusshop/contacto.html)
 
 ## 🎓 Official Certifications
 
