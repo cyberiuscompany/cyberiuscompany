@@ -20,6 +20,7 @@
 * 🔍 Trabajando como Ingeniero en Ciberseguridad y desarrollando herramientas de Ciberseguridad.
 * 📚 En constante formación en Red Team, Purple Team y Blue Team.
 * 🎓 Investigador en Informática, Ciberseguridad y Sistemas.
+* ✏️ Además de dando cursos de Ciberseguridad [Contacto.](https://cyberiuscompany.github.io/cyberiusshop/contacto.html)
 
 ## 🎓 Certificaciones Oficiales
 
