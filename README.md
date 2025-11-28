@@ -41,15 +41,6 @@
 
 * Tienda de Herramientas de Hacking: https://cyberiuscompany.github.io/cyberiusshop/
   
-----------
-
-## 💻 Proyectos Webs Activos de Ciberseguridad
-
-* Aplicación Web de reto CTF para ser Aceptado por Cyberius: http://ciberiuswebproyects.duckdns.org:9393/
-* Aplicación Web de subida/descargas de Ficheros: http://ciberiuswebproyects.duckdns.org:9090
-* Aplicación Web de compartir notas en Raw: http://ciberiuswebproyects.duckdns.org:9191/
-
-
 ### 🐍 Actividad reciente
 
 <picture><source srcset="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake-dark.svg" media="(prefers-color-scheme: dark)"><img src="https://raw.githubusercontent.com/cyberiuscompany/cyberiuscompany/output/github-snake.svg" alt="github-snake"></picture>
