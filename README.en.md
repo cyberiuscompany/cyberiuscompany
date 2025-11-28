@@ -39,14 +39,6 @@
 ## 🛒 Cybersecurity Software Store
 
 * Hacking Tools Store: https://cyberiuscompany.github.io/cyberiusshop/
-------------
-
-## 🛒 Active Cybersecurity Web Projects
-
-* CTF Challenge Web Application to be Accepted by Cyberius: http://ciberiuswebproyects.duckdns.org:9393/
-* File upload/download web application: http://ciberiuswebproyects.duckdns.org:9090
-* Raw Notes Sharing Web Application: http://ciberiuswebproyects.duckdns.org:9191/
-
 
 ### 🐍 Recent activity
 
