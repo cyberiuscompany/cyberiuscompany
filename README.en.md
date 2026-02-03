@@ -32,7 +32,7 @@
 ## 🏅 Unofficial Certifications
 
 * 🧠 [Udemy - Completed Courses](https://drive.google.com/drive/folders/1NVHxJk-HZHwo0CZSSqF-fqKAt5PVaCja?usp=sharing)
-  * 11 Certifications
+  * 12 Certifications
 * 🧠 [MasterMind - Completed Courses](https://drive.google.com/drive/folders/1VFhssuT_Tjf3bpPB_D49H4tqAlMhU-Uc?usp=sharing)
   * 3 Certifications
 
