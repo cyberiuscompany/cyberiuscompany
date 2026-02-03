@@ -36,6 +36,11 @@
 * 🧠 [MasterMind - Completed Courses](https://drive.google.com/drive/folders/1VFhssuT_Tjf3bpPB_D49H4tqAlMhU-Uc?usp=sharing)
   * 3 Certifications
 
+## 🔗 My Profiles
+
+- 🎓 **Udemy:** https://www.udemy.com/user/marlon-cabrera-8/
+- 🛡️ **Hack The Box:** https://app.hackthebox.com/public/users/479840
+  
 ## 🛒 Cybersecurity Software Store
 
 * Hacking Tools Store: https://cyberiuscompany.github.io/cyberiusshop/
