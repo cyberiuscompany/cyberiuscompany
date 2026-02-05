@@ -45,6 +45,7 @@
 ## 🛒 Tienda de Softwares de Ciberseguridad
 
 * Tienda de Herramientas de Hacking: https://cyberiuscompany.github.io/cyberiusshop/
+  * Programas para Hackear:  17
   
 ### 🐍 Actividad reciente
 
